@@ -1,0 +1,13 @@
+:root {
+  --main-color: white;
+}
+
+body,
+#app {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+body.dark {
+  --main-color: black;
+}
